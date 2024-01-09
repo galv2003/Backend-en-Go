@@ -1,0 +1,16 @@
+body {
+    font-family: Arial, sans-serif;
+}
+
+#checklist {
+    list-style-type: none;
+    padding: 0;
+}
+
+.item {
+    margin-bottom: 5px;
+}
+
+.completed {
+    text-decoration: line-through;
+}
